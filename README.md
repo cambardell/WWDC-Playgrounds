@@ -1,2 +1,5 @@
 # WWDC-Playgrounds
-A place to put WWDC experiments as I follow along in the sessions. Open a PR if you have some sample code based on WWDC to share! Anyone can contribute, just mark the file with beginner, intermediate, or expert. 
+A place to put WWDC experiments as I follow along in the sessions. Open a PR if you have some sample code based on WWDC to share!
+
+## Contributing
+Either link to your repo in README.md, or add your files to this repo itself, and open a PR. Include a short description. 
